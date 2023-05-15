@@ -20,4 +20,47 @@ _**The Instructions (commands below)**_:
     ```
     code .
     ```
-3. 
+3. **Checkout the development branch (specify what branch you are working in __VERY IMPORTANT__)**
+    ```
+    git checkout development
+    ```
+4. **Add a new text file with your name as the filename**
+    ```
+    Example: jesse.harlan.txt
+    ```
+5. **Add a message inside your file (School appropriate please)**
+    ```
+    Jesse was here
+    ```
+6. **Make a change in someone else's file**
+    ```
+    Use code to drop a change in someone elses file
+    ```
+7. **__Make sure you save all changes!__**
+8. **Track your changes with git (stage the files)**
+    ```
+    git add .
+    ```
+9. **Commit your changes (take a snapshot)**
+    ```
+    git commit -m "your commit message here"
+    ```
+11. **Check to make sure you have the latest copy of the code before pushing**
+    ```
+    git pull origin development
+    ```
+10. **Push your changes up to github**
+    ```
+    git push origin development
+    ```
+
+**Side note: If you encounter a conflict**
+    ```
+    You must resolve any merge conflicts that occur before progressing further. Read the conflict carefully (you can display it again with git status). The basic process is like so:
+
+    1. Open the conflicting files
+    2. Choose which section to keep (or modify both sections to satisy both changes).
+    3. Track your changes again
+    4. Commit your changes again.
+    5. Finish the push or merge.
+    ```
