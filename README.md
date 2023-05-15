@@ -60,7 +60,8 @@ _**The Instructions (commands below)**_:
 
     1. Open the conflicting files
     2. Choose which section to keep (or modify both sections to satisy both changes).
-    3. Track your changes again
-    4. Commit your changes again.
-    5. Finish the push or merge.
+    3. Check to make sure your code __WORKS__
+    4. Track your changes again
+    5. Commit your changes again.
+    6. Finish the push or merge.
     ```
