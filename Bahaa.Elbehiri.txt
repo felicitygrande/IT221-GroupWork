@@ -1,3 +1,7 @@
 Bahaa was here
 
+<<<<<<< HEAD
 Hello! :D
+=======
+Veda was here too! :D
+>>>>>>> 6a2d018fed835f669b1d11f0b29743d177091e8a
