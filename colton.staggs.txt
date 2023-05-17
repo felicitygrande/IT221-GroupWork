@@ -1,5 +1,10 @@
 Colton was here!
 Somebody once told me the world was gonna roll me. (: [Colton #1]
-lalalalala
 jesse was here!
+<<<<<<< HEAD
 I like cheese
+=======
+john wilk:
+lalalalala
+
+>>>>>>> 5e40ee7fc07a72ce288cd6d1f0820ef3220fc778
